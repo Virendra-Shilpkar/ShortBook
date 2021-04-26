@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ShortBook</string>
+    <string name="search_text">Enter your item name....</string>
+    <string name="shortbook">ShortBook</string>
+    <string name="account">Account</string>
+    <string name="today">Today</string>
+    <string name="hi">Hi,</string>
+    <string name="aman">Aman</string>
+    <string name="add_vendor">ADD VENDOR</string>
+    <string name="vendors_on_shortbook">Vendors on ShortBook</string>
+    <string name="all_contect">All Contect</string>
+</resources>
