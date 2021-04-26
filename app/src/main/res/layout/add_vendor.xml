@@ -18,7 +18,7 @@
         android:background="@color/blue"
         android:fontFamily="@font/ubuntu_medium"
         android:gravity="center"
-        android:text="ADD VENDOR"
+        android:text="ADD VENDORS"
         android:textColor="@color/yallow"
         android:textSize="16sp"></TextView>
 
